@@ -15,7 +15,6 @@
 		74AC48561D7851DB00DD9158 /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AC48551D7851DB00DD9158 /* CalculatorTests.swift */; };
 		74AC48611D7851DB00DD9158 /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AC48601D7851DB00DD9158 /* CalculatorUITests.swift */; };
 		74B15EE21D7B0ECC00691943 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B15EE11D7B0ECC00691943 /* CalculatorBrain.swift */; };
-		74E710A71D98347D008E2F5E /* FacialExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E710A61D98347D008E2F5E /* FacialExpression.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		74AC48601D7851DB00DD9158 /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		74AC48621D7851DB00DD9158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74B15EE11D7B0ECC00691943 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
-		74E710A61D98347D008E2F5E /* FacialExpression.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacialExpression.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +103,6 @@
 				74AC48421D7851DB00DD9158 /* ViewController.swift */,
 				74AC48441D7851DB00DD9158 /* Main.storyboard */,
 				74B15EE11D7B0ECC00691943 /* CalculatorBrain.swift */,
-				74E710A61D98347D008E2F5E /* FacialExpression.swift */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -275,7 +272,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				74B15EE21D7B0ECC00691943 /* CalculatorBrain.swift in Sources */,
-				74E710A71D98347D008E2F5E /* FacialExpression.swift in Sources */,
 				74AC48431D7851DB00DD9158 /* ViewController.swift in Sources */,
 				74AC48411D7851DB00DD9158 /* AppDelegate.swift in Sources */,
 			);
